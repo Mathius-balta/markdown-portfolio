@@ -1,8 +1,8 @@
--  Sports
-    -  Football
-    -  Soccer
-    -  Rifle
--  Food
-    -  Lomo Saltado
-    -  ceviche
-    -  Tteokbokki
+-  **Sports**
+    -  *Football*
+    -  *Soccer*
+    -  *Rifle*
+-  **Food**
+    -  *Lomo Saltado*
+    -  *ceviche*
+    -  *Tteokbokki*
